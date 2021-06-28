@@ -3,6 +3,7 @@ I am a fullstack web developer and software engineer studying at Clark Universit
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning and practicing beautiful design patterns in depth
 <br>
+
 ## Connect with me
 <a href="https://www.linkedin.com/in/jonathan-hoff22/">
 <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
